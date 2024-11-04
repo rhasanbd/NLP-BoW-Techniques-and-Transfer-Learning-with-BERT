@@ -3,7 +3,7 @@ If GitHub is unable to render a Jupyter notebook, copy the link of the notebook 
 
 # NLP: BoW Techniques and Transfer Learning with BERT
 
-This repository contains a collection of three Jupyter notebooks that explore key aspects of Natural Language Processing (NLP) using the Bag of Words (BoW) model and related techniques. Each notebook serves as a comprehensive guide, covering distinct but interconnected topics in the NLP workflow.
+This repository contains a collection of four Jupyter notebooks that explore key aspects of Natural Language Processing (NLP) using the Bag of Words (BoW) model and related techniques. Each notebook serves as a comprehensive guide, covering distinct but interconnected topics in the NLP workflow.
 
 ### 1. **NLP-1: Feature Extraction using the BoW Model**
 In this notebook, we focus on the foundational step of feature extraction, which is crucial for preparing text data for analysis. The feature extraction process typically involves four key steps:
